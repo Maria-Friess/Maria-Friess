@@ -8,7 +8,7 @@
 ### 💻 Skills: 
 <!-- Planet gif -->
 <!-- <img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmJncm16OW9wdmxyZzNvcTRxa2lveWV4Y3N0NDVzdGNnNXQzY2J2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cCCWygFWkpChuiPlWi/giphy.gif' height=400 width=470 align='right'> -->
-<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNocHY0dmdrcmNqbmF0enJ6MTJ2YXYxd2ZrcXA1NnptMjBvanRrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif' height=400 width=470 align='right'>
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdqNzRqYzgwOXgzcnVnYjNocmtzZXZ0NzJkb2d4dzlzczN6dmRvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ncx1ypcalsEE/giphy.gif' height=400 width=470 align='right'>
 
 <!-- Main skills -->
 <img src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' alt='python' height='45'>  <img src='https://img.icons8.com/?size=100&id=13406&format=png&color=000000' alt='sql' height='45'>  <img src='https://img.icons8.com/?size=100&id=CgWei7hH4lGJ&format=png&color=000000' alt='git' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000' alt='docker' height='45'>  <img src='https://img.icons8.com/?size=100&id=15534&format=png&color=000000' alt='english' height='45'> <sup><i> *English C1 </i></sup>
