@@ -27,7 +27,6 @@
 
 <!-- Django and DB -->
 | <img src='https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000' alt='matplotlib' height='30'/> | <img src="https://github.com/user-attachments/assets/669b9781-7af6-420a-9df9-bc7b44ea39b5" alt="seaborn" height="30"/> | <img height="30" alt="django" src="https://github.com/user-attachments/assets/f696ebbe-3571-4376-82c6-1992c7451089" /> | <img height="30" alt="postgres" src="https://github.com/user-attachments/assets/8e80c352-4f83-4ff1-9789-d7df39bd804f" /> | <img height="30" alt="mysql" src="https://github.com/user-attachments/assets/c82e7380-ff36-4fc3-9456-67f5cea43e29" /> | <img height="30" alt="sqlite" src="https://github.com/user-attachments/assets/82756f5b-8171-43d4-9e57-3e4e03f05fe0" /> | 
-
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | <sub>*Matplotlib*</sub> | <sub>*Seaborn*</sub> | <sub>*Django*</sub>| <sub>*Postgres*</sub> | <sub>*MySQL*</sub> | <sub>*SQLite*</sub> |
 
@@ -52,15 +51,10 @@
 <br> -->
 
 <!-- Stary sky image 
-
--->
-
 <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJycXBmZ2VubjdqanR0YWkyMmx1YmMxejZ4M2JsdDhtcGhqa3hrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b3mdJsdGrzF6dW/giphy.gif' height=200 align='right'>
 <img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnFwcjdydWFnbWF2dnhxMHRmdW5ndjFsdTA1amFicjVlbjI5MjJidCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ydWTcMBjimLbT1CHi/giphy.gif' height=200 align='right'>
-
 <img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWI0Mm5nem1qdGlndWk4MXY0enBzcTZuaDJjcGpxdWV6cXk1aHdyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif' height=200 align='right'>
-
-
+-->
 
 <!--
 **MariaFriess/MariaFriess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
