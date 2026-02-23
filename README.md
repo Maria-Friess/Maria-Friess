@@ -14,6 +14,7 @@
 <!-- Main skills -->
 <img src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' alt='python' height='45'>  <img src='https://img.icons8.com/?size=100&id=13406&format=png&color=000000' alt='sql' height='45'>  <img src='https://img.icons8.com/?size=100&id=CgWei7hH4lGJ&format=png&color=000000' alt='git' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000' alt='docker' height='45'>  <img src='https://img.icons8.com/?size=100&id=15534&format=png&color=000000' alt='english' height='45'> <sup><i> *English C1 </i></sup>
 <br>
+<br> 
 <!-- Briefly know -->
 <!-- <img src='https://img.icons8.com/?size=100&id=RwtOBojoLS2N&format=png&color=000000' alt='js' height='35'>  <img src='https://img.icons8.com/?size=100&id=rBjXs3DHrM1d&format=png&color=000000' alt='html' height='35'>  <img src='https://img.icons8.com/?size=100&id=107497&format=png&color=000000' alt='css' height='35'>  <img src='https://img.icons8.com/?size=100&id=121463&format=png&color=000000' alt='php' height='35'>   -->
 
@@ -30,7 +31,7 @@
 | <sub>*Matplotlib*</sub> | <sub>*Seaborn*</sub> | <sub>*Django*</sub>| <sub>*Postgres*</sub> | <sub>*MySQL*</sub> | <sub>*SQLite*</sub> |
 
 <br>
-<br> 
+
 
 ## 🎓 My education: <br>
 | Название | Период обучения |
