@@ -5,10 +5,12 @@
 
 <!-- ## -->
 
+<!-- Jungle git -->
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdoZXFncXFvM2llb2lzN3FscmF4anFrN2tncDJ2cW1ieXkzaHAzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/52Ywm818WNeuI/giphy.gif' height=400 width=300 align='right'>
 ### 💻 Skills: 
 <!-- Planet gif -->
 <!-- <img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmJncm16OW9wdmxyZzNvcTRxa2lveWV4Y3N0NDVzdGNnNXQzY2J2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cCCWygFWkpChuiPlWi/giphy.gif' height=400 width=470 align='right'> -->
-<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdoZXFncXFvM2llb2lzN3FscmF4anFrN2tncDJ2cW1ieXkzaHAzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/52Ywm818WNeuI/giphy.gif' height=400 width=300 align='right'>
+
 <!-- <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdqNzRqYzgwOXgzcnVnYjNocmtzZXZ0NzJkb2d4dzlzczN6dmRvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ncx1ypcalsEE/giphy.gif' height=400 width=300 align='right'> -->
 
 <!-- Main skills -->
