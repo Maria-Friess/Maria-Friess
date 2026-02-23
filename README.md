@@ -44,10 +44,12 @@
 | Добрый, добрый ИИ. Часть 1. Машинное обучение, автор: Сергей Балакирев [(сертификат)](https://stepik.org/cert/2998242)  | 09.2025 - 10.2025 |
 <!-- | Основы SQL, автор: Shultais Education [(сертификат)](https://stepik.org/cert/2251957)  | 09.2023 - 11.2023 | -->
 
+<!--
 ## 🖋 My contacts: <br>
 [<img src='https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000' alt='telegram' height='40'>](https://t.me/MariaFriess)
 [<img src='https://img.icons8.com/?size=100&id=s1rM4KTx2Huf&format=png&color=000000' alt='kaggle' height='40'>](https://www.kaggle.com/mariafriess) 
-<!-- [<img src='https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png' alt='hh' height='35'>](https://hh.ru/resume/4bca686bff0da9d00f0039ed1f6c4e46635969) --> 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png' alt='hh' height='35'>](https://hh.ru/resume/4bca686bff0da9d00f0039ed1f6c4e46635969)
+--> 
 
 <!-- [<img src='https://img.icons8.com/?size=100&id=42961&format=png&color=000000' alt='whatsapp' height='40'>](https://stepik.org/users/661352098/)[<img src='https://img.icons8.com/?size=100&id=108813&format=png&color=000000' alt='mail' height='40'>](m_pechnikova61@list.ru) 
 <br> -->
